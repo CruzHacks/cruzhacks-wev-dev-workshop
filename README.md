@@ -3,7 +3,7 @@ CruzHacks Workshop: Build and Deploy Your First Wesbite
 
 **MLH Localhost** is the best way to learn new hacker skills with your community.
 
-Find out more [about MLH Localhost](localhost.mlh.io).
+Find out more [about MLH Localhost](http://localhost.mlh.io)!.
 
 Your Project
 ------------
