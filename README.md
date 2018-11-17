@@ -1,4 +1,4 @@
-CruzHacks Web Dev Workshop: Build and Deploy Your First Wesbite
+CruzHacks Workshop: Build and Deploy Your First Wesbite
 =================
 
 **MLH Localhost** is the best way to learn new hacker skills with your community.
